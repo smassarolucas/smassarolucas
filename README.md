@@ -9,6 +9,7 @@ I'm passionate about software engineering, quality, tests and general developmen
 Some of the technologies i'm proficient at:
 
 - C# (.NET)
+- Go
 - T-SQL
 - RabbitMQ / Kafka
 - Kubernetes / Docker
